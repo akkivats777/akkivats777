@@ -43,10 +43,7 @@
 
 [1]: http://www.twitter.com/akkivats777
 [2]: http://www.facebook.com/akkivats777
-[3]: https://plus.google.com/+aakashsharma8527@gmail.com
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/akkivats777
+[3]: http://www.github.com/akkivats777
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
