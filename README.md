@@ -2,7 +2,8 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning AWS Services like CloudFormation, ECS, Jenkins
 - 📫 You can connect with me through social media platforms.
-- Username - akkivats777
+
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
