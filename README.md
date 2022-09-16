@@ -20,15 +20,15 @@
 
 <!-- icons with padding -->
 
-[1.1]: https://github.com/akkivats777/README-File-profile-icons/blob/master/icons/icons%20with%20padding/twitter.png (twitter icon with padding)
-[2.1]: https://github.com/akkivats777/README-File-profile-icons/blob/master/icons/icons%20with%20padding/facebook.png (facebook icon with padding)
-[3.1]: https://github.com/akkivats777/README-File-profile-icons/blob/master/icons/icons%20with%20padding/github.png (github icon with padding)
+[1.1]: https://github.com/akkivats777/akkivats777/blob/master/icons/icons%20with%20padding/twitter.png (twitter icon with padding)
+[2.1]: https://github.com/akkivats777/akkivats777/blob/master/icons/icons%20with%20padding/facebook.png (facebook icon with padding)
+[3.1]: https://github.com/akkivats777/akkivats777/blob/master/icons/icons%20with%20padding/github.png (github icon with padding)
 
 <!-- icons without padding -->
 
-[1.2]: https://github.com/akkivats777/README-File-profile-icons/blob/master/icons/icons%20without%20padding/twitter.png (twitter icon without padding)
-[2.2]: https://github.com/akkivats777/README-File-profile-icons/blob/master/icons/icons%20without%20padding/facebook.png (facebook icon without padding)
-[3.2]: https://github.com/akkivats777/README-File-profile-icons/blob/master/icons/icons%20without%20padding/github.png (github icon without padding)
+[1.2]: https://github.com/akkivats777/akkivats777/blob/master/icons/icons%20without%20padding/twitter.png (twitter icon without padding)
+[2.2]: https://github.com/akkivats777/akkivats777/blob/master/icons/icons%20without%20padding/facebook.png (facebook icon without padding)
+[3.2]: https://github.com/akkivats777/akkivats777/blob/master/icons/icons%20without%20padding/github.png (github icon without padding)
 
 
 <!-- links to your social media accounts -->
