@@ -5,7 +5,7 @@
 
 
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/akkivats777/iconssss -->
+<!-- Please don't remove this: Grab your social icons from https://github.com/akkivats777/icons -->
 
 <!-- display the social media buttons in your README -->
 
